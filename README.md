@@ -3,7 +3,7 @@ Vertx-gps-example is an example of how to use Vert.x to read location from a GPS
 Here is how to start the GPS verticle
 
 ```
-vertx run com.davidbharrison.com.vertx.gps.GpsTcpClientVerticle -cp gps-verticle -1.0-SNAPSHOT.jar -conf vertx-gps-conf.json -cluster -cluster-host localhost -Djava.util.logging.config.file=../logging.properties
+vertx run com.davidbharrison.com.vertx.gps.GpsTcpClientVerticle -cp gps-verticle -1.0-SNAPSHOT.jar -conf vertx-gps-conf.json -cluster -cluster-host localhost 
 ```
 
 The config file vertx-gps-conf.json should contain the following:
