@@ -15,6 +15,8 @@ The config file vertx-gps-conf.json should contain the following:
 ```
 
 References: 
-[Vert.x](http://vertx.io/)
-[gpsd](http://catb.org/gpsd/)
-[gpsfake](http://catb.org/gpsd/gpsfake.html)
+
+* [Vert.x](http://vertx.io/)
+* [gpsd](http://catb.org/gpsd/)
+* [gpsfake](http://catb.org/gpsd/gpsfake.html)
+
